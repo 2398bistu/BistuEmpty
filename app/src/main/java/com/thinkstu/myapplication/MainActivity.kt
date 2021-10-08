@@ -98,6 +98,7 @@ class MainActivity : AppCompatActivity() {
                             4 -> weekString = "星期四"
                             5 -> weekString = "星期五"
                             6 -> weekString = "星期六"
+                            0 -> weekString = "星期日"
                             7 -> weekString = "星期日"
                         }
                         //判断时段
